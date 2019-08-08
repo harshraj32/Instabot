@@ -1,3 +1,6 @@
-This code uses selenium to automate posting on instagram.
-This code works fine for users having an Facebook account.
-I will be shortly explaining how to install necessary tools.
+Installing modules.
+pip install selenium
+Try both pip install pywin32 and pip install pypiwin32.
+Download autoit 
+
+
