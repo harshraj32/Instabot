@@ -1,0 +1,3 @@
+WinWaitActive("File Upload")
+Send("your pictures folder location")
+Send("{ENTER}")
